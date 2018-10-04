@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Library for plugins keeping artifacts and Pipeline stashes in blob stores defined by Apache jclouds.
+</div>
